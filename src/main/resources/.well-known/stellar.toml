@@ -1,0 +1,13 @@
+# stellar.toml
+
+# The version of the SEP that this file adheres to.
+VERSION="2.0.0"
+
+# The web auth endpoint required for SEP-10.
+WEB_AUTH_ENDPOINT="https://api.earnlumens.com/auth"
+
+# The signing key used to sign the challenge transaction.
+SIGNING_KEY="GDWPMAJAEO56NOETVLO2MMP43HPMQRY3LRPXYSPVDSOJ6R4JT2MYAGOL" # Reemplazar con la clave pública real del servidor de firma.
+
+# Additional information (optional but recommended)
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
